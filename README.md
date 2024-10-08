@@ -12,10 +12,9 @@
  
 <br>
  
-### Redes Sociais & Contato
+### Rede Social & Contato
  
 <div> 
   <a href="https://www.instagram.com/brunohenriquefr_bh" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/brunohenrique_bh" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:brunohenriquefrancorodrigues@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "gmail:brunohenriquefrancorodrigues@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
